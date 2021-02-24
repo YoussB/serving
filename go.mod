@@ -13,7 +13,6 @@ require (
 	github.com/docker/cli v20.10.2+incompatible // indirect
 	github.com/docker/docker v20.10.2+incompatible // indirect
 	github.com/emicklei/go-restful v2.15.0+incompatible // indirect
-	github.com/form3tech-oss/jwt-go v3.2.2+incompatible
 	github.com/go-openapi/spec v0.20.2 // indirect
 	github.com/gogo/protobuf v1.3.2
 	github.com/google/go-cmp v0.5.4
@@ -52,9 +51,9 @@ require (
 	k8s.io/gengo v0.0.0-20201214224949-b6c5ce23f027 // indirect
 	k8s.io/kube-openapi v0.0.0-20210113233702-8566a335510f
 	k8s.io/utils v0.0.0-20210111153108-fddb29f9d009 // indirect
-	knative.dev/caching v0.0.0-20210204170711-77321844ace3
+	knative.dev/caching v0.0.0-20210215030244-1212288570f0
 	knative.dev/hack v0.0.0-20210203173706-8368e1f6eacf
-	knative.dev/networking v0.0.0-20210208175252-ab1235ed8672
-	knative.dev/pkg v0.0.0-20210208175252-a02dcff9ee26
+	knative.dev/networking v0.0.0-20210215030235-088986a1c2a3
+	knative.dev/pkg v0.0.0-20210215165523-84c98f3c3e7a
 	sigs.k8s.io/yaml v1.2.0
 )
